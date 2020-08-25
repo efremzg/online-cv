@@ -48,12 +48,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      An able, aspiring, and dependable Post Baccalaureate Diploma in Cognitive Science student at Carleton University with experience that ranges from the federal 
+      government of Canada, MacOdrum library, years as an English language instructor and facilitator, and many more years experience in academia.
 education:
     - degree: Post Baccalaureate Diploma in Cognitive Science
       university: Carleton University
