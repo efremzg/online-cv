@@ -57,7 +57,7 @@ career-profile:
 education:
     - degree: Post Baccalaureate Diploma in Cognitive Science
       university: Carleton University
-      time: 2019 - 2020
+      time: 2020
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -66,9 +66,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: Bachelor of Arts, Major in Applied Linguistics and Discourse Studies (minors in French and ASL) 
+    - degree: BA, Major in Applied Linguistics and Discourse Studies (minors in French and ASL) 
       university: Carleton University
-      time: 2017 - 2019
+      time: 2019
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -77,9 +77,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: Bachelor of Arts, Honours in Linguistics
+    - degree: BA, Honours in Linguistics
       university: Saint Mary’s University
-      time: 2012 - 2014
+      time: 2014
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -88,9 +88,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: Bachelor of Science, Major in Neuroscience
+    - degree: BSc, Major in Neuroscience
       university: Dalhousie University
-      time: 2007 - 2011
+      time: 2011
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
