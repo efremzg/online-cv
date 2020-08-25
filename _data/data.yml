@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: efrem [at] dal [dot] ca
     phone: #
-    website: blog.webjeda.com #do not add http://
+    website: memhr.org/blog #do not add http://
     linkedin: #
     github: efremzg
     telegram: # add your nickname without '@' sign
@@ -55,9 +55,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Post Baccalaureate Diploma in Cognitive Science
+      university: Carleton University
+      time: 2020
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -66,9 +66,31 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Bachelor of Arts, Major: Applied Linguistics and Discourse Studies (minors in French and ASL)
+      university: Carleton University
+      time: 2019
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - degree: Bachelor of Arts, Honours: Linguistics
+      university: Saint Mary’s University
+      time: 2014
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - degree:  Bachelor of Science, Major: Neuroscience
+      university: Dalhousie University
+      time: 2011
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
