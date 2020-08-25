@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: efrem [at] dal [dot] ca
     phone: #
-    website: memhr.org/blog #do not add http://
+    website: blog.webjeda.com #do not add http://
     linkedin: #
     github: efremzg
     telegram: # add your nickname without '@' sign
@@ -55,9 +55,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: Post Baccalaureate Diploma in Cognitive Science
-      university: Carleton University
-      time: 2020 - 
+    - degree: MSc in Computer Science
+      university: University of London
+      time: 2011 - 2012
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -66,9 +66,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: Bachelor of Arts, Major: Applied Linguistics and Discourse Studies (minors in French and ASL)
-      university: Carleton University
-      time: 2019 - 
+    - degree: BSc in Applied Mathematics
+      university: Bristol University
+      time: 2007 - 2011
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
