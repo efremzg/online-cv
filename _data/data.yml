@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: efrem [at] dal [dot] ca
     phone: #
-    website: blog.webjeda.com #do not add http://
+    website: memhr.org/blog #do not add http://
     linkedin: #
     github: efremzg
     telegram: # add your nickname without '@' sign
@@ -36,7 +36,7 @@ sidebar:
         level: Conversational
 
     interests:
-      - item: IT communications
+      - item: IT and communications
         link:
 
       - item: Languages
