@@ -149,11 +149,23 @@ experiences:
         - Maintain working status of lab equipment (printer, computers, supplies)
         - Take inventory of supplies (paper stock, staples, etc)
         - Enforce lab polices 
+    - role: Relay For Life - Activities and Entertainment Chair
+      time: 2006
+      company: The Canadian Cancer society  
+      details: |
+        - Book, organize and plan musical events for the Relay For Life
+        - Organize, plan, and conduct games and activities for Relay For Life participants 
+        - Contact local businesses and possible sponsors for the event
+        - Maintain the well being of participants throughout the day/night 
 projects:
     title: Projects
     intro: >
       Various side projects and interests
     assignments:
+      - title: <a href="https://efremzg.wordpress.com/">Otawanian blog</a> 
+        link: "#"
+        tagline: "A recent exercise demonstrating modern familiarity of WordPress."
+
       - title: <a href="https://cognitivesciencesociety.org/">Cognitive Science Society Member</a>
         link: "#alc"
         tagline: "...to foster scientific interchange among researchers in various areas of study, including Artificial Intelligence, Linguistics, Anthropology, Psychology, Neuroscience, Philosophy, and Education."
@@ -165,10 +177,6 @@ projects:
       - title: <a href="http://www.memhr.org/dic">Memhr.org webmaster</a>
         link: "#"
         tagline: "A website I created in 2007 to compile a dictionary and to help teach the Semitic language of Tigrinya."
-
-      - title: <a href="https://efremzg.wordpress.com/">Otawanian blog</a> 
-        link: "#"
-        tagline: "A recent exercise demonstrating modern familiarity of WordPress."
 
 skills:
     title: Skills &amp; Proficiency
