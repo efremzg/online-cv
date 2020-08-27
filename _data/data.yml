@@ -152,73 +152,38 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Various side projects and interests
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: ACL/CLA Member
+        link: "#alc"
+        tagline: "The Canadian Linguistic Association (CLA) was founded in 1955, to promote of the study of languages and linguistics in Canada."
 
-      - title: DevStudio
+      - title: <a href="http://memhr.org/dic">memhr.org</a> webmaster
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "A website I created in 2007 to compile a dictionary and to help teach the Semitic language of Tigrinya."
 
-      - title: Tempo
+      - title: <a href="https://efremzg.wordpress.com/">Otawanian blog</a> 
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        tagline: "A recent exercise demonstrating current familiarity of WordPress."
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Microsoft Office tool (Word, Excel, Powerpoint, etc)
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Adobe Creative Suite
         level: 98%
 
-      - name: Angular
-        level: 98%
+      - name: WordPress
+        level: 90%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Python
+        level: 75%
 
 footer: >
     
