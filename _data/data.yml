@@ -154,15 +154,15 @@ projects:
     intro: >
       Various side projects and interests
     assignments:
-      - title: <a href="https://cognitivesciencesociety.org/">Cognitive Science Society</a> Member
+      - title: <a href="https://cognitivesciencesociety.org/">Cognitive Science Society Member</a>
         link: "#alc"
         tagline: "...to foster scientific interchange among researchers in various areas of study, including Artificial Intelligence, Linguistics, Anthropology, Psychology, Neuroscience, Philosophy, and Education."
 
-      - title: <a href="http://cla-acl.ca/">ACL/CLA</a> Member
+      - title: <a href="http://cla-acl.ca/">ACL/CLA Member</a>
         link: "#alc"
         tagline: "The Canadian Linguistic Association (CLA) was founded in 1955, to promote of the study of languages and linguistics in Canada."
 
-      - title: <a href="http://www.memhr.org/dic">Memhr.org</a> webmaster
+      - title: <a href="http://www.memhr.org/dic">Memhr.org webmaster</a>
         link: "#"
         tagline: "A website I created in 2007 to compile a dictionary and to help teach the Semitic language of Tigrinya."
 
