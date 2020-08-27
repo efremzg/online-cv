@@ -183,16 +183,16 @@ skills:
 
     toolset:
       - name: Microsoft Office 365 (Word, Excel, ...)
-        level: 100%
+        level: 95%
 
       - name: Google Analytics
-        level: 100%
+        level: 95%
 
       - name: Adobe Creative Suite
-        level: 90%
+        level: 85%
 
       - name: WordPress
-        level: 90%
+        level: 85%
         
       - name: HTML5 & CSS
         level: 75%
