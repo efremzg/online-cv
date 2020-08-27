@@ -151,7 +151,8 @@ experiences:
         - Enforce lab polices 
 projects:
     title: Projects
-    intro: > Various side projects and interests
+    intro: >
+      Various side projects and interests
     assignments:
       - title: <a href="https://cognitivesciencesociety.org/">Cognitive Science Society Member</a>
         link: "#alc"
