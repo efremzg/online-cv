@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: efrem [at] dal [dot] ca
     phone: #
-    website: memhr.org/blog #do not add http://
+    website:  #do not add http://
     linkedin: #
     github: efremzg
     telegram: # add your nickname without '@' sign
@@ -48,8 +48,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      An able, aspiring, and dependable Post Baccalaureate Diploma in Cognitive Science student at Carleton University with experience that ranges from the federal 
-      government of Canada, MacOdrum library, years as an English language instructor and facilitator, and many more years experience in academia.
+      An able, dependable, and highly motivated Carleton Computer Science student with federal government Administrative Registry experience, Elections Canada work, university library employment, English as a Second Language (ESL) facilitation and instruction, and many more years in the professional world and academia. Eager to apply any personal knowledge and work experience towards furthering educational advancement in relation to cognitive learning and Neuroscience.
 education:
     - degree: Post Baccalaureate Diploma in Cognitive Science
       university: Carleton University
@@ -162,10 +161,6 @@ projects:
     intro: >
       Various side projects and interests
     assignments:
-      - title: <a href="https://efremzg.wordpress.com/">Ottawanian blog</a> 
-        link: "#"
-        tagline: "A recent exercise demonstrating modern familiarity of WordPress."
-
       - title: <a href="https://cognitivesciencesociety.org/">Cognitive Science Society Member</a>
         link: "#alc"
         tagline: "...to foster scientific interchange among researchers in various areas of study, including Artificial Intelligence, Linguistics, Anthropology, Psychology, Neuroscience, Philosophy, and Education."
@@ -174,9 +169,6 @@ projects:
         link: "#alc"
         tagline: "The Canadian Linguistic Association (CLA) was founded in 1955, to promote of the study of languages and linguistics in Canada."
 
-      - title: <a href="http://www.memhr.org/dic">Memhr.org webmaster</a>
-        link: "#"
-        tagline: "A website I created in 2007 to compile a dictionary and to help teach the Semitic language of Tigrinya."
 
 skills:
     title: Skills &amp; Proficiency
